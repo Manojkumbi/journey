@@ -6,9 +6,9 @@ import { nanoid } from 'nanoid';
 import jwt from 'jsonwebtoken';
 import cors from 'cors';
 import admin from "firebase-admin";
-import serviceAccountKey from "./react-blogging-b2904-firebase-adminsdk-pxpro-d71e2ef5a8.json" assert{type:json};
-import {getAuth} from "firebase-admin";
-
+import serviceAccountKey from "./react-blogging-b2904-firebase-adminsdk-pxpro-d71e2ef5a8.json" assert{type:'json'};
+import pkg from 'firebase-admin';
+const {getAuth} = pkg;
 
 import User from './Schema/User.js';
 const server = express();
