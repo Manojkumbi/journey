@@ -5,8 +5,8 @@
 <a name="readme-top"></a>
 <br />
 <div align="center">
-  <a href="https://github.com/Manojkumbi/Coding-Raja-Technologies-Internship">
-    <img src="https://github.com/Manojkumbi/JOURNEY-/tree/aeca6e829f76276bd75487d518b40e3feeab4357/images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Manojkumbi/journey">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Journey Blog</h3>
@@ -18,9 +18,9 @@
 
 ## Project Screenshots
 
-  <img src="https://github.com/Manojkumbi/JOURNEY-/tree/aeca6e829f76276bd75487d518b40e3feeab4357/images/Screenshot1.png" alt="Logo" width="512" height="241">
+  <img src="Screenshot1.png" alt="Logo" width="512" height="241">
 
-<img src="https://github.com/Manojkumbi/JOURNEY-/tree/aeca6e829f76276bd75487d518b40e3feeab4357/images/Screenshot.png" alt="Logo" width="512" height="241">
+<img src="Screenshot.png" alt="Logo" width="512" height="241">
 
 <!-- TABLE OF CONTENTS -->
 <details>
