@@ -18,9 +18,9 @@
 
 ## Project Screenshots
 
-  <img src="Screenshot1.png" alt="Logo" width="512" height="241">
+  <img src="Screenshot1.png" alt="Logo" width="1024" height="482">
 
-<img src="Screenshot.png" alt="Logo" width="512" height="241">
+<img src="Screenshot.png" alt="Logo" width="1024" height="482">
 
 <!-- TABLE OF CONTENTS -->
 <details>
