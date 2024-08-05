@@ -109,7 +109,7 @@ Before you begin, ensure you have the following prerequisites installed on your 
 <!-- CONTACT -->
 ## Contact
 
-KUMARASWAMY S- [ManojKumbi](https://twitter.com/Manojkumbi) -manojkumbi2803@gmail.com
+KUMARASWAMY S- [Twiter](https://twitter.com/Manojkumbi) -[Email](kumarswamy2803@gmail.com)
 
 Project Link: [click me](https://github.com/Manojkumbi/journey)
 
