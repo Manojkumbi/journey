@@ -18,9 +18,9 @@
 
 ## Project Screenshots
 
-  <img src="Screenshot1.png" alt="Logo" width="1024" height="576">
+  <img src="Screenshot1.png" alt="Logo" width="1024" height="512">
 
-<img src="Screenshot.png" alt="Logo" width="1024" height="576">
+<img src="Screenshot.png" alt="Logo" width="1024" height="512">
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -77,7 +77,7 @@ Before you begin, ensure you have the following prerequisites installed on your 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Manojkumbi/Coding-Raja-Technologies-Internship
+   git clone https://github.com/Manojkumbi/journey
    ```
 2. Install NPM packages in front-end
    ```sh
@@ -116,8 +116,8 @@ Project Link: [click me](https://github.com/Manojkumbi/journey)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-[product-screenshot]: https://github.com/Manojkumbi/JOURNEY-/tree/aeca6e829f76276bd75487d518b40e3feeab4357/images/screenshot1.png
-[product-screenshot]: https://github.com/Manojkumbi/JOURNEY-/tree/aeca6e829f76276bd75487d518b40e3feeab4357/images/screenshot.png
+[product-screenshot]: screenshot1.png
+[product-screenshot]: screenshot.png
 [Next.js]: https://img.shields.io/badge/Nodejs-20232A?style=for-the-badge&logo=nodejs&logoColor=61DAFB
 [Next-url]:https://nodejs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
